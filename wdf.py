@@ -15,7 +15,7 @@ DEBUG = False
 
 MAX_GROUP_NUM = 35 # 每组人数
 
-QRImagePath = os.getcwd() + '/qrcode.jpg'
+QRImagePath = os.getcwd() + '\qrcode.jpg'
 
 tip = 0
 uuid = ''
